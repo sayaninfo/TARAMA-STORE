@@ -1,0 +1,133 @@
+[
+   {
+        "id": 1,
+        "name": "Women's Ethnic",
+        "title":"Get the latest style from your favorite shop",
+        "price":"1499",
+        "catagory": "Most popular",
+        "image": "https://img.freepik.com/free-photo/beautyful-thai-woman-wearing-thai-dress_1150-16060.jpg?t=st=1725802065~exp=1725805665~hmac=4b32f6d2dcf790ab47f3c3275ebec4097ef93eff24d25240cdd57634ef60f7ae&w=996"
+        
+    },
+
+    {
+        "id": 2,
+        "name": "Men's Ethnic",
+        "title":"Get the latest style from your favorite shop",
+        "price":"1299",
+        "catagory": "Most popular",
+        "image": "https://img.freepik.com/free-photo/indian-stylish-man-yellow-traditional-clothes-with-white-scarf-posed-outdoor_627829-13663.jpg?ga=GA1.1.846970499.1725799285&semt=ais_hybrid"
+    },
+
+    {
+        "id": 3,
+        "name": "Kid's Ethnic",
+        "title":"Get the latest style from your favorite shop",
+        "price":"999",
+        "catagory": "Most popular",
+        "image": "https://img.freepik.com/free-photo/front-view-kid-celebrating-tamil-new-year_23-2151210770.jpg?ga=GA1.1.846970499.1725799285&semt=ais_hybrid"
+        
+    },
+
+    
+    {
+        "id": 4,
+        "name": "Shirt",
+        "title":"Get the latest style from your favorite shop",
+        "price":"700",
+        "catagory": "",
+        "image": "https://img.freepik.com/free-photo/close-up-flannel-shirt-detail_23-2149575385.jpg?ga=GA1.1.846970499.1725799285&semt=ais_hybrid"
+        
+    },
+
+    
+    {
+        "id": 5,
+        "name": "Casuals",
+        "title":"Get the latest style from your favorite shop",
+        "price":"850",
+        "catagory": "",
+        "image": "https://img.freepik.com/free-photo/couple-sitting-city_1157-16410.jpg?ga=GA1.1.846970499.1725799285&semt=ais_hybrid"
+        
+    },
+
+    {
+        "id": 6,
+        "name": "Formal Shirts",
+        "title":"Men",
+        "price":"750",
+        "catagory": "",
+        "image": "https://img.freepik.com/free-photo/portrait-handsome-smiling-model-sexy-stylish-man-dressed-shirt-trousers-fashion-hipster-male-posing-near-grey-wall-studio-isolated_158538-26739.jpg?semt=ais_hybrid"
+        
+    },
+
+    {
+        "id": 7,
+        "name": "Sweat Shirts",
+        "title":"Men",
+        "price":"950",
+        "catagory": "",
+        "image": "https://img.freepik.com/free-psd/white-hooded-sweatshirt-seen-from-front-back-isolated-transparent-background_125540-6369.jpg?t=st=1725806412~exp=1725810012~hmac=6004b684f981a78077971fbd106e552343c4d40064bf4a2b5bb307c71e472781&w=996"
+        
+    }, 
+    
+    {
+        "id": 8,
+        "name": "Jackets",
+        "title":"Men",
+        "price":"1555",
+        "catagory": "",
+        "image": "https://img.freepik.com/free-photo/still-life-rendering-jackets-display_23-2149745039.jpg?semt=ais_hybrid"
+        
+    },
+
+    {
+        "id": 9,
+        "name": "Bottom wear",
+        "title":"Men",
+        "price":"899",
+        "catagory": "",
+        "image": "https://img.freepik.com/free-photo/full-body-portrait-cute-tall-young-african-american-model-with-afro-plain-black-cotton-t-shirt-white-sneakers-slim-grey-jeans-isolated-white_346278-1023.jpg?semt=ais_hybrid"
+        
+    },
+
+
+    {
+        "id": 10,
+        "name": "Sarees",
+        "title":"Women",
+        "price":"2999",
+        "catagory": "",
+        "image": "https://img.freepik.com/free-photo/young-indian-woman-wearing-sari_23-2149400848.jpg?ga=GA1.1.846970499.1725799285&semt=ais_hybrid"
+        
+    },
+
+    
+    {
+        "id": 11,
+        "name": "Skirts",
+        "title":"Women",
+        "price":"699",
+        "catagory": "",
+        "image": "https://img.freepik.com/free-photo/enchanting-tanned-female-model-holding-hat-laughing-pretty-girl-with-brown-hair-posing-with-smile_197531-10591.jpg?ga=GA1.1.846970499.1725799285&semt=ais_hybrid"
+        
+    },
+    {
+        "id": 12,
+        "name": "Kurtis",
+        "title":"Women",
+        "price":"499",
+        "catagory": "",
+        "image": "https://img.freepik.com/free-photo/young-woman-with-shopping-bags-beautiful-dress_1303-17549.jpg?ga=GA1.1.846970499.1725799285&semt=ais_hybrid"
+        
+    }
+
+
+
+
+
+   
+
+
+
+]
+    
